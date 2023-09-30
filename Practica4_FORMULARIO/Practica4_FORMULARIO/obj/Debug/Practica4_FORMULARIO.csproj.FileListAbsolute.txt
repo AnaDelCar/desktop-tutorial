@@ -1,0 +1,10 @@
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\bin\Debug\Practica4_FORMULARIO.exe.config
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\bin\Debug\Practica4_FORMULARIO.exe
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\bin\Debug\Practica4_FORMULARIO.pdb
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.csproj.AssemblyReference.cache
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.FORM_Formulario.resources
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.Properties.Resources.resources
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.csproj.GenerateResource.cache
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.csproj.CoreCompileInputs.cache
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.exe
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica4_FORMULARIO\Practica4_FORMULARIO\obj\Debug\Practica4_FORMULARIO.pdb
