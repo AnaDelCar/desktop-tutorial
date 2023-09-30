@@ -1,0 +1,10 @@
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\bin\Debug\Practica2--BOTONES.exe.config
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\bin\Debug\Practica2--BOTONES.exe
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\bin\Debug\Practica2--BOTONES.pdb
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2--BOTONES.csproj.AssemblyReference.cache
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2__BOTONES.Form1.resources
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2__BOTONES.Properties.Resources.resources
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2--BOTONES.csproj.GenerateResource.cache
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2--BOTONES.csproj.CoreCompileInputs.cache
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2--BOTONES.exe
+C:\Users\otaku\OneDrive\Documentos\Códigos\C#\Programación A\Practica2--BOTONES\Practica2--BOTONES\obj\Debug\Practica2--BOTONES.pdb
