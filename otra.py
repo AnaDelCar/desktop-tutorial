@@ -56,9 +56,3 @@ while (ex1 > 5 or ex2 >  5 or ex3 > 5) :
     print("X1: ",despex1,"\nX2: ",despex2, "\nX3: ",despex3,"\n")
     print("Error X1: ","{:.6f}".format(ex1),"\nError X2: ","{:.6f}".format(ex2),"\nError X3: ","{:.6f}".format(ex3),"\n")
 
-#margenx1= (coefiX1[0]*despex1)-(coefiX1[1]*despex2)-(coefiX1[2]*despex3)
-#print(margenx1, " +- ","0.1")
-#margenx2= (coefiX2[0]*despex1)-(coefiX2[1]*despex2)-(coefiX2[2]*despex3)
-#print(margenx1, " +- ","0.1")
-#margex3= (coefiX3[0]*despex1)-(coefiX3[1]*despex2)-(coefiX3[2]*despex3)
-#print(margenx1, " +- ","0.1")
