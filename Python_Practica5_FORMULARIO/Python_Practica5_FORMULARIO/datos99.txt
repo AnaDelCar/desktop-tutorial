@@ -1,0 +1,14 @@
+Nombre: Ana
+Apellido: Del
+Edad: 17 anos
+Estatura: 1.70 cm
+Telefono: 9611111111
+Genero:  
+
+Nombre: Guadalupe
+Apellido: Del Carpio
+Edad: 17 anos
+Estatura: 1.58 cm
+Telefono: 9612345678
+Genero: Mujer
+

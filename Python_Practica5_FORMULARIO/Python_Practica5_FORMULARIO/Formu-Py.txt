@@ -1,0 +1,14 @@
+Nombre: ghh
+Apellido: g
+Edad: 7j anos
+Estatura: d cm
+Telefono: fv
+Genero: Mujer
+
+Nombre: Guadalupe
+Apellido: Del Carpio
+Edad: 17 anos
+Estatura: 1.59 cm
+Telefono: 9612345678
+Genero: Mujer
+
