@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_Validar Datos(Formulario)", "Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario).csproj", "{0839573D-6FEB-4CCC-B96E-4A52CC2CB166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0839573D-6FEB-4CCC-B96E-4A52CC2CB166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0839573D-6FEB-4CCC-B96E-4A52CC2CB166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0839573D-6FEB-4CCC-B96E-4A52CC2CB166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0839573D-6FEB-4CCC-B96E-4A52CC2CB166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59CA1BD1-D315-40E8-92AD-90D1B6F558E1}
+	EndGlobalSection
+EndGlobal
