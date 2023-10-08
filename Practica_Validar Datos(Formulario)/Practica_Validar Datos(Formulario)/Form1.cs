@@ -57,7 +57,7 @@ namespace Practica_Validar_Datos_Formulario_
             }
             if (EsEnteroValido(edad) && EsDecimalValido(estatura) && EsEnteroValidode10Digitos(telefono) && EsTextoValido(nombre) && EsTextoValido(apellido))
             {
-                string informacion = $"NOMBRE: {nombre}\r\nAPELLIDO: {apellido}\r\nTELEFONO: {telefono} kg\r\nESTATURA: {estatura} cm\r\nEDAD: {edad} años\r\nGENERO: {genero}";
+                string informacion = $"NOMBRE: {nombre}\r\nAPELLIDO: {apellido}\r\nTELEFONO: {telefono} \r\nESTATURA: {estatura} cm\r\nEDAD: {edad} años\r\nGENERO: {genero}";
 
                 string rutaArchivo = "C:/Users/otaku/Downloads/DocumFormulario.txt";
 
@@ -112,7 +112,7 @@ namespace Practica_Validar_Datos_Formulario_
             if (!EsEnteroValido(textBox.Text))
             {
                 MessageBox.Show("Porfavor ingrese un valor valido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                textBox.Clear(); 
+                textBox.Clear();
             }
         }
         private void validarEstatura(object sender, EventArgs e)
@@ -144,7 +144,7 @@ namespace Practica_Validar_Datos_Formulario_
         private void validarNombre(object sender, EventArgs e)
         {
             TextBox textBox = (TextBox)sender;
-                if (!EsTextoValido(textBox.Text))
+            if (!EsTextoValido(textBox.Text))
             {
                 MessageBox.Show("Porfavor ingrese un valor valido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 textBox.Clear();
