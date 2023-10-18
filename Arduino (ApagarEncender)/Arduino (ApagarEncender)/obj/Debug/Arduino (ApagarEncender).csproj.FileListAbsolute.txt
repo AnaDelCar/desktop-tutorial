@@ -1,0 +1,10 @@
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\bin\Debug\Arduino (ApagarEncender).exe.config
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\bin\Debug\Arduino (ApagarEncender).exe
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\bin\Debug\Arduino (ApagarEncender).pdb
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino (ApagarEncender).csproj.AssemblyReference.cache
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino__ApagarEncender_.Form1.resources
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino__ApagarEncender_.Properties.Resources.resources
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino (ApagarEncender).csproj.GenerateResource.cache
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino (ApagarEncender).csproj.CoreCompileInputs.cache
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino (ApagarEncender).exe
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Arduino (ApagarEncender)\Arduino (ApagarEncender)\obj\Debug\Arduino (ApagarEncender).pdb
