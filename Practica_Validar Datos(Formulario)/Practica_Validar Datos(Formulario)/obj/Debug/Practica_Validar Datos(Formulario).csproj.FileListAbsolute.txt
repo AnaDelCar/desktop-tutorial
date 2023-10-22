@@ -8,3 +8,10 @@ C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(
 C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\obj\Debug\Practica_Validar Datos(Formulario).csproj.CoreCompileInputs.cache
 C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\obj\Debug\Practica_Validar Datos(Formulario).exe
 C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\obj\Debug\Practica_Validar Datos(Formulario).pdb
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\bin\Debug\MySql.Data.dll
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\bin\Debug\System.Memory.dll
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\bin\Debug\System.Buffers.dll
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\bin\Debug\MySql.Data.xml
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\Practica_Validar Datos(Formulario)\Practica_Validar Datos(Formulario)\obj\Debug\Practica_Validar Datos(Formulario).csproj.CopyComplete

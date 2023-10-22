@@ -16,6 +16,7 @@ namespace Practica_Validar_Datos_Formulario_
 {
     public partial class Form1 : Form
     {
+        string conexionSQL = "Server=localhost; Port = 3306;Database=formulariobased;Uid=root;Pwd=Morado03Morado;";
         public Form1()
         {
             InitializeComponent();
@@ -35,6 +36,27 @@ namespace Practica_Validar_Datos_Formulario_
             txt_Estatura.Clear();
             RadButton_Hombre.Checked = false;
             RadButton_Mujer.Checked = false;
+        }
+        private void insertarRegistros (string nombre,string apellido, int edad, decimal estatura, string telefono, string genero)
+        {
+            using (MySqlConnection conection = new MySqlConnection(conexionSQL))
+            {
+                conection.Open();
+                string insertQuery = "INSERT INTO usuario (Nombre, Apellido, Edad, Estatura, Telefono, Genero)" +
+                                     "VALUES (@Nombre, @Apellido, @Edad, @Estatura, @Telefono, @Genero)";
+                using (MySqlCommand command = new MySqlCommand (insertQuery, conection))
+                {
+                    command.Parameters.AddWithValue("@Nombre", nombre);
+                    command.Parameters.AddWithValue("@Apellido", apellido);
+                    command.Parameters.AddWithValue("@Edad", edad);
+                    command.Parameters.AddWithValue("@Estatura", estatura);
+                    command.Parameters.AddWithValue("@Telefono", telefono);
+                    command.Parameters.AddWithValue("@Genero", genero);
+
+                    command.ExecuteNonQuery();
+                }
+                conection.Close();
+            }
         }
 
         private void Boton_Guardar_Click(object sender, EventArgs e)
@@ -76,8 +98,15 @@ namespace Practica_Validar_Datos_Formulario_
                         if (archivoExiste)
                         {
                             writer.WriteLine("\n");
+                            insertarRegistros(nombre, apellido, int.Parse(edad), decimal.Parse(estatura), telefono, genero);
+                            MessageBox.Show("DATOS GUARDADOS CORRECTAMENTE!");
                         }
-                        writer.WriteLine(informacion);
+                        else
+                        {
+                            writer.WriteLine(informacion);
+                            insertarRegistros(nombre, apellido, int.Parse(edad), decimal.Parse(estatura), telefono, genero);
+                            MessageBox.Show("DATOS GUARDADOS CORRECTAMENTE!");
+                        }
                     }
                 }
                 MessageBox.Show("GUARDADO CON EXITO!:\n\n" + informacion, "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -99,8 +128,15 @@ namespace Practica_Validar_Datos_Formulario_
         }
         private bool EsEnteroValidode10Digitos(string valor)
         {
-            long resultado;
-            return long.TryParse(valor, out resultado) && valor.Length == 10;
+            if (valor.Length != 10)
+            {
+                return false;
+            }
+            if (!valor.All(char.IsDigit))
+            {
+                return false;
+            }
+            return true;
         }
         private bool EsTextoValido(string valor)
         {
@@ -130,17 +166,15 @@ namespace Practica_Validar_Datos_Formulario_
             TextBox textBox = (TextBox)sender;
             string input = textBox.Text;
 
-            if (input.Length > 10)
+            if (input.Length < 10)
             {
+                return;
+            }
                 if (!EsEnteroValidode10Digitos(input))
                 {
                     MessageBox.Show("Porfavor ingrese un valor valido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     textBox.Clear();
                 }
-                //} else if (!EsEnteroValidode10Digitos(input))
-                //{
-                //   MessageBox.Show("Porfavor ingrese un valor valido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
         }
         private void validarNombre(object sender, EventArgs e)
         {
