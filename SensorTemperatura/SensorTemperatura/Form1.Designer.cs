@@ -88,7 +88,6 @@
             this.txtLimTem.Name = "txtLimTem";
             this.txtLimTem.Size = new System.Drawing.Size(100, 24);
             this.txtLimTem.TabIndex = 4;
-            this.txtLimTem.Text = "0";
             this.txtLimTem.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label1

@@ -1,0 +1,10 @@
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\bin\Debug\SensorTemperatura.exe.config
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\bin\Debug\SensorTemperatura.exe
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\bin\Debug\SensorTemperatura.pdb
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.csproj.AssemblyReference.cache
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.Form1.resources
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.Properties.Resources.resources
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.csproj.GenerateResource.cache
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.exe
+C:\Users\otaku\source\repos\AnaDelCar\desktop-tutorial-1\SensorTemperatura\SensorTemperatura\obj\Debug\SensorTemperatura.pdb
